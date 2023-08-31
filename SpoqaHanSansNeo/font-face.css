@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Spoqa Han Sans Neo";
+  font-weight: 700;
+  font-display: swap;
+  src: local("Spoqa Han Sans Neo Bold"),
+    url("./fonts/woff2/SpoqaHanSansNeo-Bold.woff2") format("woff2"),
+    url("./fonts/woff/SpoqaHanSansNeo-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Neo";
+  font-weight: 500;
+  font-display: swap;
+  src: local("Spoqa Han Sans Neo Medium"),
+    url("./fonts/woff2/SpoqaHanSansNeo-Medium.woff2") format("woff2"),
+    url("./fonts/woff/SpoqaHanSansNeo-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Neo";
+  font-weight: 400;
+  font-display: swap;
+  src: local("Spoqa Han Sans Neo Regular"),
+    url("./fonts/woff2/SpoqaHanSansNeo-Regular.woff2") format("woff2"),
+    url("./fonts/woff/SpoqaHanSansNeo-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Neo";
+  font-weight: 300;
+  font-display: swap;
+  src: local("Spoqa Han Sans Neo Light"),
+    url("./fonts/woff2/SpoqaHanSansNeo-Light.woff2") format("woff2"),
+    url("./fonts/woff/SpoqaHanSansNeo-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spoqa Han Sans Neo";
+  font-weight: 100;
+  font-display: swap;
+  src: local("Spoqa Han Sans Neo Thin"),
+    url("./fonts/woff2/SpoqaHanSansNeo-Thin.woff2") format("woff2"),
+    url("./fonts/woff/SpoqaHanSansNeo-Thin.woff") format("woff");
+}
