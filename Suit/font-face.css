@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "SUIT";
+  font-weight: 900;
+  font-display: swap;
+  src: local("SUIT-Heavy"),
+    url("./fonts/woff2/SUIT-Heavy.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 800;
+  font-display: swap;
+  src: local("SUIT-ExtraBold"),
+    url("./fonts/woff2/SUIT-ExtraBold.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 700;
+  font-display: swap;
+  src: local("SUIT-Bold"), url("./fonts/woff2/SUIT-Bold.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 600;
+  font-display: swap;
+  src: local("SUIT-SemiBold"),
+    url("./fonts/woff2/SUIT-SemiBold.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 500;
+  font-display: swap;
+  src: local("SUIT-Medium"),
+    url("./fonts/woff2/SUIT-Medium.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 400;
+  font-display: swap;
+  src: local("SUIT-Regular"),
+    url("./fonts/woff2/SUIT-Regular.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 300;
+  font-display: swap;
+  src: local("SUIT-Light"),
+    url("./fonts/woff2/SUIT-Light.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 200;
+  font-display: swap;
+  src: local("SUIT-ExtraLight"),
+    url("./fonts/woff2/SUIT-ExtraLight.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUIT";
+  font-weight: 100;
+  font-display: swap;
+  src: local("SUIT-Thin"), url("./fonts/woff2/SUIT-Thin.woff2") format("woff2"),
+    url("./fonts/woff/SUIT-Thin.woff") format("woff");
+}
