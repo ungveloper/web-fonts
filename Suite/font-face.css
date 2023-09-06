@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "SUITE";
+  font-weight: 900;
+  font-display: swap;
+  src: local("SUITE-Heavy"),
+    url("./fonts/woff2/SUITE-Heavy.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 800;
+  font-display: swap;
+  src: local("SUITE-ExtraBold"),
+    url("./fonts/woff2/SUITE-ExtraBold.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 700;
+  font-display: swap;
+  src: local("SUITE-Bold"),
+    url("./fonts/woff2/SUITE-Bold.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 600;
+  font-display: swap;
+  src: local("SUITE-SemiBold"),
+    url("./fonts/woff2/SUITE-SemiBold.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 500;
+  font-display: swap;
+  src: local("SUITE-Medium"),
+    url("./fonts/woff2/SUITE-Medium.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 400;
+  font-display: swap;
+  src: local("SUITE-Regular"),
+    url("./fonts/woff2/SUITE-Regular.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SUITE";
+  font-weight: 300;
+  font-display: swap;
+  src: local("SUITE-Light"),
+    url("./fonts/woff2/SUITE-Light.woff2") format("woff2"),
+    url("./fonts/woff/SUITE-Light.woff") format("woff");
+}
