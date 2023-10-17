@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 900;
+  font-display: swap;
+  src: local("나눔스퀘어 네오 OTF Heavy"),
+    url("./fonts/woff2/NanumSquareNeoTTF-eHv.woff2") format("woff2"),
+    url("./fonts/woff/NanumSquareNeoTTF-eHv.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 800;
+  font-display: swap;
+  src: local("나눔스퀘어 네오 OTF ExtraBold"),
+    url("./fonts/woff2/NanumSquareNeoTTF-dEb.woff2") format("woff2"),
+    url("./fonts/woff/NanumSquareNeoTTF-dEb.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 700;
+  font-display: swap;
+  src: local("나눔스퀘어 네오 OTF Bold"),
+    url("./fonts/woff2/NanumSquareNeoTTF-cBd.woff2") format("woff2"),
+    url("./fonts/woff/NanumSquareNeoTTF-cBd.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 400;
+  font-display: swap;
+  src: local("나눔스퀘어 네오 OTF Regular"),
+    url("./fonts/woff2/NanumSquareNeoTTF-bRg.woff2") format("woff2"),
+    url("./fonts/woff/NanumSquareNeoTTF-bRg.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 300;
+  font-display: swap;
+  src: local("나눔스퀘어 네오 OTF Light"),
+    url("./fonts/woff2/NanumSquareNeoTTF-aLt.woff2") format("woff2"),
+    url("./fonts/woff/NanumSquareNeoTTF-aLt.woff") format("woff");
+}
