@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 900;
+  font-display: swap;
+  src: local("Noto Sans KR Black"),
+    url("./fonts/woff2/NotoSansKR-Black.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 800;
+  font-display: swap;
+  src: local("Noto Sans KR ExtraBold"),
+    url("./fonts/woff2/NotoSansKR-ExtraBold.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 700;
+  font-display: swap;
+  src: local("Noto Sans KR Bold"),
+    url("./fonts/woff2/NotoSansKR-Bold.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 600;
+  font-display: swap;
+  src: local("Noto Sans KR SemiBold"),
+    url("./fonts/woff2/NotoSansKR-SemiBold.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 500;
+  font-display: swap;
+  src: local("Noto Sans KR Medium"),
+    url("./fonts/woff2/NotoSansKR-Medium.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 400;
+  font-display: swap;
+  src: local("Noto Sans KR Regular"),
+    url("./fonts/woff2/NotoSansKR-Regular.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 300;
+  font-display: swap;
+  src: local("Noto Sans KR Light"),
+    url("./fonts/woff2/NotoSansKR-Light.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 200;
+  font-display: swap;
+  src: local("Noto Sans KR ExtraLight"),
+    url("./fonts/woff2/NotoSansKR-ExtraLight.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: 100;
+  font-display: swap;
+  src: local("Noto Sans KR Thin"),
+    url("./fonts/woff2/NotoSansKR-Thin.woff2") format("woff2"),
+    url("./fonts/woff/NotoSansKR-Thin.woff") format("woff");
+}
