@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Gmarket Sans";
+  font-family: "GmarketSans";
   font-weight: 700;
   font-display: swap;
   src: local("Gmarket Sans Bold"),
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: "Gmarket Sans";
+  font-family: "GmarketSans";
   font-weight: 500;
   font-display: swap;
   src: local("Gmarket Sans Medium"),
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: "Gmarket Sans";
+  font-family: "GmarketSans";
   font-weight: 300;
   font-display: swap;
   src: local("Gmarket Sans Light"),

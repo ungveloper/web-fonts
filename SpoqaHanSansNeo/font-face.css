@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Spoqa Han Sans Neo";
+  font-family: "SpoqaHanSansNeo";
   font-weight: 700;
   font-display: swap;
   src: local("Spoqa Han Sans Neo Bold"),
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: "Spoqa Han Sans Neo";
+  font-family: "SpoqaHanSansNeo";
   font-weight: 500;
   font-display: swap;
   src: local("Spoqa Han Sans Neo Medium"),
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: "Spoqa Han Sans Neo";
+  font-family: "SpoqaHanSansNeo";
   font-weight: 400;
   font-display: swap;
   src: local("Spoqa Han Sans Neo Regular"),
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-  font-family: "Spoqa Han Sans Neo";
+  font-family: "SpoqaHanSansNeo";
   font-weight: 300;
   font-display: swap;
   src: local("Spoqa Han Sans Neo Light"),
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-  font-family: "Spoqa Han Sans Neo";
+  font-family: "SpoqaHanSansNeo";
   font-weight: 100;
   font-display: swap;
   src: local("Spoqa Han Sans Neo Thin"),
