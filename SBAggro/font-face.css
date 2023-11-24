@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "SBAggro";
+  font-weight: 700;
+  font-display: swap;
+  src: local("SB 어그로"), url("./fonts/woff2/SBAggroB.woff2") format("woff2"),
+    url("./fonts/woff/SBAggroB.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SBAggro";
+  font-weight: 500;
+  font-display: swap;
+  src: local("SB 어그로"), url("./fonts/woff2/SBAggroM.woff2") format("woff2"),
+    url("./fonts/woff/SBAggroM.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SBAggro";
+  font-weight: 300;
+  font-display: swap;
+  src: local("SB 어그로"), url("./fonts/woff2/SBAggroL.woff2") format("woff2"),
+    url("./fonts/woff/SBAggroL.woff") format("woff");
+}
